@@ -17,3 +17,19 @@ Please use the following colours:
 - ![#8149FF](https://placehold.co/15x15/8149FF/8149FF.png) `#8149FF` Purple
 - ![#FF0071](https://placehold.co/15x15/FF0071/FF0071.png) `#FF0071` Pink
 
+You could use the hex colour codes as CSS variables like so:
+```css
+/* Define colours */
+:root {
+	--mind-blue: #1300c1;
+	--mind-sky: #9DA8FF;
+	--mind-green: #71F5C4;
+	--mind-purple: #8149FF;
+	--mind-pink: #FF0071;
+}
+
+/* Example of variable usage */
+.text {
+    color: var(--mind-purple);
+}
+```
