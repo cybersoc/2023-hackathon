@@ -4,16 +4,7 @@
 
 Please use the "MindMeridian" font, found under resources/font/ in woff2 format.
 
-CSS Example of how to use the font:
-```css
-body {
-	font-family: "MindMeridian-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-.bold {
-	font-family: "MindMeridian-Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
+*See the README in the font folder for instrucitons on how to use this font in your CSS.*
 
 ## Colours
 
